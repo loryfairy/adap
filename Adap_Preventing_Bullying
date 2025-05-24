@@ -1,0 +1,47 @@
+Adap for Bullying Prevention in Schools
+
+Overview
+
+Adap is an AI architecture designed to foster safer, more ethical, and inclusive school environments. In this module, Adap acts as a monitoring and prevention system for bullying, integrating with digital platforms used by students and school administrators. The goal is to detect suspected bullying situations and support school management in decision-making, without emotionally exposing those involved.
+
+Main Features
+
+1. Intelligent Communication Monitoring
+- Integration of Adap’s AI with chats, apps, and educational virtual environments.
+- Automatic detection of aggressive language patterns, insults, social exclusion, and other bullying signals in both group and private conversations.
+
+2. Discreet Alerts for School Staff
+- Automatic alerts are generated and sent only to the responsible pedagogical staff (teachers, coordinators, counselors).
+- Alerts include the context of the incident (class, virtual room, group) but do not expose names to the entire school community.
+- Enables rapid intervention according to the institution’s internal protocol.
+
+3. Reports for School Management
+- Creation of anonymous and statistical reports on the incidence of possible bullying cases by environment, class, or period.
+- Guidance on where to focus preventive campaigns or educational actions based on trends identified by AI.
+- Training suggestions for teachers and staff.
+
+4. Privacy and Security
+- Guarantee of student anonymity in reports and alerts, according to legislation and best data protection practices.
+- Restricted access controls: only authorized personnel can view and analyze detailed alerts and reports.
+
+Example Workflow
+
+1. A group of students uses aggressive language in a school chat.
+2. Adap detects terms and patterns associated with bullying and logs the incident.
+3. The pedagogical team receives a discreet alert with the context of the incident (e.g., “possible case of aggressive language detected in 7B class chat”).
+4. The school can investigate and intervene according to its code of conduct, without publicly exposing students.
+
+Benefits
+
+- Reduction of bullying cases through early detection and preventive actions.
+- Increased safety and inclusion in the school environment.
+- Support for school management with concrete data while respecting everyone’s privacy.
+- Adaptable tool for different platforms and school realities.
+
+Next Steps
+
+- Develop the integration module with school communication platforms.
+- Validate the system in a pilot environment, adjusting detection rules and standards.
+- Train school staff for proper analysis and use of reports and alerts.
+
+For more information about the Adap project and its applications, visit the main repository or contact the development team.
